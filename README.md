@@ -44,7 +44,7 @@ That's it.
 
 To make `bst` a little easier to use, I highly recomment symlinking to a location within your path.  The command would look something like this:
 
-        sudo ln -s "path/to/bst" /bin/bst
+    sudo ln -s "path/to/bst" /bin/bst
 
 
 ## Road Map
